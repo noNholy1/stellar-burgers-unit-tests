@@ -70,3 +70,6 @@ pytestdebug.log
 *.pyc
 __pycache__
 pytest.ini
+# Allure
+allure_results/
+allure-report/
